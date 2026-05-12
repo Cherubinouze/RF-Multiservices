@@ -95,26 +95,30 @@ header .container {
     align-items: center;
     gap: 50px;
     margin-top: 50px;
+    margin-bottom: 30px;
     max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .presentation .texte {
     width: 100%;
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .presentation .texte h3 {
     font-size: 2rem;                /* "Notre mission" plus grand */
     color: var(--dark-color);
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     font-weight: 600;
 }
 
 .presentation .texte p {
     font-size: 1.1rem;
     max-width: 700px;
+    margin-bottom: 30px;
     margin: 5px auto;
 }
 
