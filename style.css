@@ -118,6 +118,14 @@ header .container {
     margin: 5px auto;
 }
 
+.text-content {
+    margin-left: 30px;  /* Marge à gauche */
+    margin-right: 30px; /* Marge à droite */
+    max-width: 800px;   /* Largeur max pour éviter les lignes trop longues (optionnel) */
+    margin-top: 20px;   /* Espace au-dessus (optionnel) */
+    margin-bottom: 20px;/* Espace en dessous (optionnel) */
+    line-height: 1.6;   /* Espacement entre les lignes (pour la lisibilité) */
+}
 
 /* Autres sections (Services, Galerie, Contact) */
 .services-grid {
