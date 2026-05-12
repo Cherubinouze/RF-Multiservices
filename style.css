@@ -104,27 +104,34 @@ header .container {
 .presentation .texte {
     width: 100%;
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .presentation .texte h3 {
     font-size: 2rem;                /* "Notre mission" plus grand */
     color: var(--dark-color);
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     font-weight: 600;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .presentation .texte p {
     font-size: 1.1rem;
     max-width: 700px;
-    margin-bottom: 30px;
-    margin: 5px auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .text-content {
-    margin-left: 30px;  /* Marge à gauche */
-    margin-right: 30px; /* Marge à droite */
+    margin-left: 20px;  /* Marge à gauche */
+    margin-right: 20px; /* Marge à droite */
     max-width: 800px;   /* Largeur max pour éviter les lignes trop longues (optionnel) */
     margin-top: 20px;   /* Espace au-dessus (optionnel) */
     margin-bottom: 20px;/* Espace en dessous (optionnel) */
